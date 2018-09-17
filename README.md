@@ -1,2 +1,0 @@
-# Laboratorio-III
-Front End
